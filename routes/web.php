@@ -12,5 +12,17 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('welcome', array('nome'=>'Fernando'));
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/task', 'TaskController@index');
+
+Route::get('/task/{task}', 'TaskController@show_2');
+
+Route::get('/index', function() {
+    return view('index');
 });
