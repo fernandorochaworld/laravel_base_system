@@ -2,7 +2,7 @@
     <head>
         <title>My Application</title>
     </head>
-<body>
-    @yield('content')
-</body>
+    <body>
+        @yield('content')
+    </body>
 </html>
