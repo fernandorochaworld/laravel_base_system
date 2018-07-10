@@ -1,12 +1,12 @@
 
     <div>
       <div class="page-header">
-        <h1 class="page-title">Página2</h1>
+        <h1 class="page-title">Página 2</h1>
       </div>
       <div class="page-content">
         <div class="panel">
           <div class="panel-heading">
-            <h3 class="panel-title">Conteúdo da Página2</h3>
+            <h3 class="panel-title">Conteúdo da Página 2</h3>
           </div>
           <div class="panel-body">
             <p>Admodum recordamur ne unum, vitae, detractio poterit primum, genuit
